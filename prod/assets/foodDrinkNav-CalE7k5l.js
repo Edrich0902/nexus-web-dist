@@ -1,0 +1,1 @@
+var e=[{key:`overview`,label:`Overview`,to:{name:`food-drink`}},{key:`pairings`,label:`Pairings`,to:{name:`food-drink-pairings`}}];export{e as t};

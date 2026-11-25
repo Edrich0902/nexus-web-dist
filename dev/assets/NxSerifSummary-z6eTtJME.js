@@ -1,0 +1,2 @@
+import{D as e,H as t,wt as n,x as r,z as i}from"./vue-vendor-OOl1Fiia.js";import{n as a}from"./NxIcon-DFcQ0T3i.js";var o=a(e({__name:`NxSerifSummary`,props:{size:{default:`lg`}},setup(e){return(a,o)=>(i(),r(`p`,{class:n([`nx-serif-summary`,`size-${e.size}`])},[t(a.$slots,`default`,{},void 0,!0)],2))}}),[[`__scopeId`,`data-v-eb38d38b`]]);export{o as t};
+//# sourceMappingURL=NxSerifSummary-z6eTtJME.js.map

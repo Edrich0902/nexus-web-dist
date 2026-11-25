@@ -1,0 +1,2 @@
+import{D as e,E as t,H as n,m as r,x as i,z as a}from"./vue-vendor-OOl1Fiia.js";import{t as o}from"./NxPillNav-CF4bfKj_.js";var s=e({__name:`CodeNav`,setup(e){let s=[{key:`home`,label:`Overview`,to:{name:`github`}},{key:`pulls`,label:`Pull requests`,to:{name:`github-pulls`}},{key:`search`,label:`Search`,to:{name:`github-search`}},{key:`stats`,label:`Stats`,to:{name:`github-stats`}}];return(e,c)=>(a(),i(r,null,[t(o,{items:s,label:`Code`}),n(e.$slots,`default`)],64))}});export{s as t};
+//# sourceMappingURL=CodeNav-CnNj8Stn.js.map

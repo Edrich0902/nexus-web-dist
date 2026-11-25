@@ -1,0 +1,2 @@
+import{D as e,Dt as t,V as n,b as r,m as i,wt as a,x as o,z as s}from"./vue-vendor-OOl1Fiia.js";import{n as c}from"./NxIcon-DFcQ0T3i.js";var l=[`aria-label`],u=c(e({__name:`NxChips`,props:{items:{},label:{default:void 0},tone:{default:`tint`}},setup(e){return(c,u)=>e.items.length?(s(),o(`ul`,{key:0,class:a([`nx-chips`,`t-${e.tone}`]),"aria-label":e.label},[(s(!0),o(i,null,n(e.items,e=>(s(),o(`li`,{key:e},t(e),1))),128))],10,l)):r(``,!0)}}),[[`__scopeId`,`data-v-0d53f322`]]);export{u as t};
+//# sourceMappingURL=NxChips-BjInFyHx.js.map

@@ -1,0 +1,1 @@
+import{X as e}from"./prime-theme-DEaOvlue.js";var t=e();export{t};
